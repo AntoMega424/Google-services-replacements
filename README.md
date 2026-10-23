@@ -1,5 +1,5 @@
 # Google-services-replacements
-This repo contains a non-exhaustive but ever-growing list of websites and softwares that can replace the services made by Google while respecting user privacy\
+This repo contains a non-exhaustive but ever-growing list of websites and softwares that can replace the services made by Google all the while respecting user privacy\
 Most are [free and open-source](https://wikipedia.org/wiki/FOSS), but it is not always the case\
 The list is organised by category and in ascending alphabetical order\
 This list originally comes from [this comment on Reddit](https://www.reddit.com/r/degoogle/comments/1wharr4/comment/pacvmgn/) on [this post](https://www.reddit.com/r/degoogle/s/LrojxUX7pm) in [r/degoogle](https://www.reddit.com/r/degoogle/) that I wrote about a month ago at the time of this repo's creation
