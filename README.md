@@ -162,5 +162,5 @@ Here's the list:
 
 ## YouTube Music
 - [EchoMusic](https://github.com/EchoMusicApp/Echo-Music)
-- [Metrolist](httops://github.com/MetrolistGroup/Metrolist)
+- [Metrolist](https://github.com/MetrolistGroup/Metrolist)
 - [Morphe patched YouTube Music](https://morphe.software/)
