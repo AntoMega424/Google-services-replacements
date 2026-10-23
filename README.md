@@ -66,6 +66,7 @@ Here's the list:
   - [MA OpenAssistant](https://github.com/vayun-mathur/Modern-Apps)
   
 ## Gmail
+  - [Aster Mail](https://play.google.com/store/apps/details?id=org.astermail.android)
   - [Infomaniak ikMail](https://github.com/Infomaniak/android-kMail)
   - [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
   - [Tuta Mail](https://github.com/tutao/tutanota)
