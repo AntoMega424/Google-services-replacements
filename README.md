@@ -1,31 +1,31 @@
 # Google-services-replacements
 This repo contains a non-exhaustive but ever-growing list of websites and softwares that can replace the services made by Google while respecting user privacy\
-Most are free and open-source, but it is not always the case\
+Most are [free and open-source](https://wikipedia.org/wiki/FOSS), but it is not always the case\
 The list is organised by category and in ascending alphabetical order\
 This list originally comes from [this comment on Reddit](https://www.reddit.com/r/degoogle/comments/1wharr4/comment/pacvmgn/) on [this post](https://www.reddit.com/r/degoogle/s/LrojxUX7pm) in [r/degoogle](https://www.reddit.com/r/degoogle/) that I wrote about a month ago at the time of this repo's creation
 
 Here's the list:
 
-## 2FA
-  - [1Key](https://f-droid.org/packages/com.roufsyed.onekey)
-  - [Aegis](https://f-droid.org/packages/com.beemdevelopment.aegis)
-  - [AIPOS](https://f-droid.org/packages/com.aipos.aipospm)
-  - [Ente Auth](https://f-droid.org/packages/io.ente.auth)
-  - [Proton Authenticator](https://f-droid.org/packages/proton.android.authenticator.fdroid)
+## [2FA](https://wikipedia.org/wiki/2FA)
+  - [1Key](https://github.com/roufsyed/1Key)
+  - [Aegis](https://github.com/beemdevelopment/Aegis)
+  - [AIPOS](https://github.com/gininaba/AIPOSPasswordManager)
+  - [Ente Auth](https://github.com/ente-io/ente/)
+  - [Proton Authenticator](https://github.com/protonpass/android-authenticator)
   
 ## Calendar
-  - [Etar](https://f-droid.org/packages/ws.xsoh.etar)
-  - [Fossify Calendar](https://f-droid.org/packages/org.fossify.calendar)
-  - [Infomaniak kSync](https://f-droid.org/packages/com.infomaniak.sync)
-  - [KashCal](https://f-droid.org/packages/org.onekash.kashcal)
-  - [MA Calendar](https://f-droid.org/packages/com.vayunmathur.calendar)
-  - [Tuta Calendar](https://f-droid.org/packages/de.tutao.calendar)
+  - [Etar](https://github.com/Etar-Group/Etar-Calendar)
+  - [Fossify Calendar](https://github.com/FossifyOrg/Calendar)
+  - [Infomaniak kSync](https://github.com/Infomaniak/android-kSync)
+  - [KashCal](https://github.com/KashCal/KashCal)
+  - [MA Calendar](https://github.com/vayun-mathur/Modern-Apps)
+  - [Tuta Calendar](https://github.com/tutao/tutanota)
   
 ## Chrome
   - [Brave](https://github.com/brave/brave-browser/)
   - [Ecosia](https://github.com/ecosia/)
   - [Falkon](https://www.falkon.org/)
-  - [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
+  - [Fennec](https://hg.mozilla.org/mozilla-central/file/tip/mobile/android)
   - [Floorp](https://github.com/brave/brave-browser/)
   - [GNUZilla](https://www.gnu.org/software/gnuzilla/#navigation)
   - [Helium](https://github.com/imputnet/helium/)
@@ -44,56 +44,56 @@ Here's the list:
   - [Zen](https://github.com/zen-browser/)
   
 ## Contacts
-  - [Chat Delta](https://f-droid.org/packages/com.b44t.messenger)
-  - [Connect You](https://f-droid.org/packages/com.bnyro.contacts)
-  - [Fossify Contacts](https://f-droid.org/packages/org.fossify.contacts)
-  - [Infomaniak kSync](https://f-droid.org/packages/com.infomaniak.sync)
-  - [MA Contacts](https://f-droid.org/packages/com.vayunmathur.contacts)
-  - [SimpleX](https://f-droid.org/packages/chat.simplex.app)
+  - [Chat Delta](https://github.com/deltachat/deltachat-android)
+  - [Connect You](https://github.com/you-apps/ConnectYou)
+  - [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+  - [Infomaniak kSync](https://github.com/Infomaniak/android-kSync)
+  - [MA Contacts](https://github.com/vayun-mathur/Modern-Apps)
+  - [SimpleX](https://github.com/simplex-chat/simplex-chat)
   
 ## Drive
   - [Filen](https://filen.io/)
-  - [Infomaniak kDrive](https://f-droid.org/packages/com.infomaniak.drive)
+  - [Infomaniak kDrive](https://github.com/Infomaniak/android-kDrive)
   - [Nextcloud](https://nextcloud.com/files/)
   - [Proton Drive](https://play.google.com/store/apps/details?id=me.proton.android.drive)
   
 ## Gemini
-  - [Assistral (_basically [Le Chat Mistral](https://chat.mistral.ai/chat) but with more privacy_)](https://f-droid.org/packages/org.shano.assistral)
+  - [Assistral (_basically Le Chat Mistral but with more privacy_)](https://github.com/shano/assistral)
   - [Duck.ai (_actually a proxy for other LLMs_)](https://duck.ai/)
-  - [Euria](https://f-droid.org/packages/com.infomaniak.euria)
+  - [Euria](https://github.com/Infomaniak/android-euria)
   - [Le Chat Mistral](https://chat.mistral.ai/chat)
-  - [Lumo](https://f-droid.org/packages/me.proton.android.lumo)
-  - [MA OpenAssistant](https://f-droid.org/packages/com.vayunmathur.openassistant)
+  - [Lumo](https://github.com/ProtonLumo/android-lumo)
+  - [MA OpenAssistant](https://github.com/vayun-mathur/Modern-Apps)
   
 ## Gmail
-  - [Infomaniak ikMail](https://f-droid.org/packages/com.infomaniak.mail)
+  - [Infomaniak ikMail](https://github.com/Infomaniak/android-kMail)
   - [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
-  - [Tuta Mail](https://f-droid.org/packages/de.tutao.tutanota)
+  - [Tuta Mail](https://github.com/tutao/tutanota)
   
 ## Gboard
-  - [AnySoftKeyboard](https://f-droid.org/packages/com.menny.android.anysoftkeyboard)
+  - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
   - [FUTO Keyboard](https://github.com/futo-org/android-keyboard/releases)
-  - [HeliBoard](https://f-droid.org/packages/helium314.keyboard)
-  - [Simple Keyboard](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod)
-  - [Thumb-Key](https://f-droid.org/packages/com.dessalines.thumbkey)
-  - [Universal Keyboard](https://f-droid.org/packages/juloo.keyboard2)
-  - [WM Keyboard](https://f-droid.org/packages/com.wasimaster.wmkeyboard)
+  - [HeliBoard](https://github.com/HeliBorg/HeliBoard)
+  - [Simple Keyboard](https://github.com/rkkr/simple-keyboard)
+  - [Thumb-Key](https://github.com/dessalines/thumb-key)
+  - [Universal Keyboard](https://github.com/Julow/Unexpected-Keyboard)
+  - [WM Keyboard](https://github.com/wasi-master/wmkeyboard)
   
 ## Maps
-  - [CoMaps](https://f-droid.org/packages/app.comaps.fdroid)
-  - [Organic Maps](https://f-droid.org/packages/app.organicmaps)
-  - [OsmAnd\~](https://f-droid.org/packages/net.osmand.plus)
-  - [MBCompass (_only for map and compass; no GPS_)](https://f-droid.org/packages/com.mubarak/mbcompass)
+  - [CoMaps](https://codeberg.org/comaps/comaps)
+  - [Organic Maps](https://github.com/organicmaps/organicmaps)
+  - [OsmAnd\~](https://github.com/osmandapp/Osmand)
+  - [MBCompass (_only for map and compass; no GPS_)](https://github.com/MubarakNative/MBCompass)
   - [Morphe patched Google Maps (_for example Ungoogled Maps by bearinmind_)](https://morphe-patches.software/?app=com.google.android.apps.maps#apps)
   - [Morphe patched Waze (_for example Waze ß by DowJames_)](https://morphe-patches.software/?app=com.waze#apps)
 
 ## Meet
-  - [Infomaniak kMeet](https://f-droid.org/packages/com.infomaniak.meet)
-  - [Jitsi Meet](https://f-droid.org/en/packages/org.jitsi.meet/)
+  - [Infomaniak kMeet](https://github.com/Infomaniak/android-infomaniak-meet)
+  - [Jitsi Meet](https://github.com/jitsi/jitsi-meet)
     
 ## Messages
-  - [Connect You](https://f-droid.org/packages/com.bnyro.contacts)
-  - [Fossify Messages](https://f-droid.org/packages/org.fossify.messages)
+  - [Connect You](https://github.com/you-apps/ConnectYou)
+  - [Fossify Messages](https://github.com/FossifyOrg/Messages)
   - [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
 ## One
@@ -102,33 +102,33 @@ Here's the list:
   - [Proton](https://proton.me/)
   
 ## Password Manager
-  - [1Key](https://f-droid.org/packages/com.roufsyed.onekey)
-  - [AIPOS](https://f-droid.org/packages/com.aipos.aipospm)
-  - [KeePassDX](https://f-droid.org/packages/com.kunzisoft.keepass.libre)
-  - [Password Generator (*not for storage; only for generating passwords*)](https://f-droid.org/packages/com.vecturagames.android.app.passwordgenerator)
-  - [Proton Pass](https://f-droid.org/packages/proton.android.pass.fdroid)
+  - [1Key](https://github.com/roufsyed/1Key)
+  - [AIPOS](https://github.com/gininaba/AIPOSPasswordManager)
+  - [KeePass (*for examples KeePassDX, KeePassXC, ...*)](https://keepass.info/download.html)
+  - [Password Generator (*not for storage; only for generating passwords*)](https://gitlab.com/vecturagames/passwordgenerator)
+  - [Proton Pass](https://github.com/protonpass/android-pass)
   
 ## Phone
-  - [Connect You](https://f-droid.org/packages/com.bnyro.contacts)
-  - [Fossify Contacts](https://f-droid.org/packages/org.fossify.contacts)
-  - [Fossify Phone](https://f-droid.org/packages/org.fossify.phone)
+  - [Connect You](https://github.com/you-apps/ConnectYou)
+  - [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
+  - [Fossify Phone](https://github.com/FossifyOrg/Phone)
 
 ## Photos
-  - [Fossify Gallery](https://f-droid.org/packages/org.fossify.gallery)
-  - [Gallery for PhotoPrism](https://f-droid.org/packages/ua.com.radiokot.photoprism)
-  - [Image Toolbox](https://f-droid.org/packages/ru.tech.imageresizershrinker)
-  - [Iris Gallery](https://f-droid.org/packages/com.iris.gallery)
-  - [Lavender](https://f-droid.org/packages/com.kaii.photos)
-  - [VLC Media Player (_not for storage; for opening pics/videos/audio files only_)](https://f-droid.org/packages/org.videolan.vlc)
+  - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+  - [Gallery for PhotoPrism](https://github.com/Radiokot/photoprism-android-client)
+  - [Image Toolbox](https://github.com/T8RIN/ImageResizer)
+  - [Iris Gallery](https://github.com/MohamadOday/iris-gallery)
+  - [Lavender](https://github.com/kaii-lb/LavenderPhotos)
+  - [VLC Media Player (_not for storage; for opening pics/videos/audio files only_)](https://code.videolan.org/videolan/vlc-android)
   
 ## Play Store
   - [Accrescent](https://accrescent.app/)
-  - [Aurora Store](https://f-droid.org.packages/com.aurora.store)
+  - [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore)
   - [F-Droid](https://f-droid.org)
-  - [Flicky](https://f-droid.org.packages/app/flicky)
-  - [Komi Store](https://f-droid.org.packages/zed/rainxch.githubstore/)
-  - [Mitch](https://f-droid.org.packages/ua.gardenapple.mitchupdater)
-  - [Obtainium (_not for intial downloads; for updates only_)](https://f-droid.org/packages/dev.imranr.obtainium.fdroid)
+  - [Flicky](https://github.com/mlm-games/flicky)
+  - [Komi Store](https://github.com/kurikomi-labs/komi-store)
+  - [Mitch](https://sr.ht/~gardenapple/mitch/)
+  - [Obtainium (_not for intial downloads; for updates only_)](https://github.com/ImranR98/Obtainium)
   
 ## Search
   - [Brave](https://search.brave.com/)
@@ -148,11 +148,11 @@ Here's the list:
   - None yet
 
 ## YouTube
-  - [LearnTube](https://f-droid.org/packages/com.learntube.app)
-  - [LibreTube](https://f-droid.org/packages/com.github.libretube)
-  - [NewPipe](https://f-droid.org/packages/org.schabi.newpipe)
-  - [PipePipe](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced)
-  - [SmartTube](https://f-droid.org/packages/app.smarttube.fdroid)
+  - [LearnTube](https://github.com/akshvaishnav21/LearnTube)
+  - [LibreTube](https://github.com/libre-tube/LibreTube)
+  - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+  - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
+  - [SmartTube](https://github.com/yuliskov/SmartTube)
   - [Tubular](https://apt.izzysoft.de/packages/org.polymorphicshade.tubular)
   - [YouTube ReVanced](https://github.com/revanced)
   - [YouTube Morphe](https://github.com/MorpheApp)
