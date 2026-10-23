@@ -52,14 +52,15 @@ Here's the list:
   - [SimpleX](https://github.com/simplex-chat/simplex-chat)
   
 ## Drive
+  - [Bitwarden](https://github.com/bitwarden/)
   - [Filen](https://filen.io/)
   - [Infomaniak kDrive](https://github.com/Infomaniak/android-kDrive)
   - [Nextcloud](https://nextcloud.com/files/)
   - [Proton Drive](https://play.google.com/store/apps/details?id=me.proton.android.drive)
   
 ## Gemini
-  - [Assistral (_basically Le Chat Mistral but with more privacy_)](https://github.com/shano/assistral)
-  - [Duck.ai (_actually a proxy for other LLMs_)](https://duck.ai/)
+  - [Assistral (*basically Le Chat Mistral but with more privacy*)](https://github.com/shano/assistral)
+  - [Duck.ai (*actually a proxy for other LLMs*)](https://duck.ai/)
   - [Euria](https://github.com/Infomaniak/android-euria)
   - [Le Chat Mistral](https://chat.mistral.ai/chat)
   - [Lumo](https://github.com/ProtonLumo/android-lumo)
@@ -68,6 +69,7 @@ Here's the list:
 ## Gmail
   - [Aster Mail](https://play.google.com/store/apps/details?id=org.astermail.android)
   - [Infomaniak ikMail](https://github.com/Infomaniak/android-kMail)
+  - [Posteo](https://posteo.de)
   - [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
   - [Tuta Mail](https://github.com/tutao/tutanota)
   
@@ -84,9 +86,9 @@ Here's the list:
   - [CoMaps](https://codeberg.org/comaps/comaps)
   - [Organic Maps](https://github.com/organicmaps/organicmaps)
   - [OsmAnd\~](https://github.com/osmandapp/Osmand)
-  - [MBCompass (_only for map and compass; no GPS_)](https://github.com/MubarakNative/MBCompass)
-  - [Morphe patched Google Maps (_for example Ungoogled Maps by bearinmind_)](https://morphe-patches.software/?app=com.google.android.apps.maps#apps)
-  - [Morphe patched Waze (_for example Waze ß by DowJames_)](https://morphe-patches.software/?app=com.waze#apps)
+  - [MBCompass (*only for map and compass; no GPS*)](https://github.com/MubarakNative/MBCompass)
+  - [Morphe patched Google Maps (*for example Ungoogled Maps by bearinmind*)](https://morphe-patches.software/?app=com.google.android.apps.maps#apps)
+  - [Morphe patched Waze (*for example Waze ß by DowJames*)](https://morphe-patches.software/?app=com.waze#apps)
 
 ## Meet
   - [Infomaniak kMeet](https://github.com/Infomaniak/android-infomaniak-meet)
@@ -120,7 +122,7 @@ Here's the list:
   - [Image Toolbox](https://github.com/T8RIN/ImageResizer)
   - [Iris Gallery](https://github.com/MohamadOday/iris-gallery)
   - [Lavender](https://github.com/kaii-lb/LavenderPhotos)
-  - [VLC Media Player (_not for storage; for opening pics/videos/audio files only_)](https://code.videolan.org/videolan/vlc-android)
+  - [VLC Media Player (*not for storage; for opening pics/videos/audio files only*)](https://code.videolan.org/videolan/vlc-android)
   
 ## Play Store
   - [Accrescent](https://accrescent.app/)
@@ -129,7 +131,7 @@ Here's the list:
   - [Flicky](https://github.com/mlm-games/flicky)
   - [Komi Store](https://github.com/kurikomi-labs/komi-store)
   - [Mitch](https://sr.ht/~gardenapple/mitch/)
-  - [Obtainium (_not for intial downloads; for updates only_)](https://github.com/ImranR98/Obtainium)
+  - [Obtainium (*not for intial downloads; for updates only*)](https://github.com/ImranR98/Obtainium)
   
 ## Search
   - [Brave](https://search.brave.com/)
