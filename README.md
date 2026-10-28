@@ -23,6 +23,7 @@ Here's the list:
   
 ## Chrome
 - [Brave](https://github.com/brave/brave-browser/)
+- [Cromite](https://github.com/uazo/cromite)
 - [Ecosia](https://github.com/ecosia/)
 - [Falkon](https://www.falkon.org/)
 - [Fennec](https://hg.mozilla.org/mozilla-central/file/tip/mobile/android)
@@ -84,8 +85,11 @@ Here's the list:
   
 ## Maps
 - [CoMaps](https://codeberg.org/comaps/comaps)
+- [HERE WeGo](https://wego.here.com/)
 - [Organic Maps](https://github.com/organicmaps/organicmaps)
 - [OsmAnd\~](https://github.com/osmandapp/Osmand)
+- [Mapy](https://mapy.com/)
+- [Magic Earth](https://www.magicearth.com/download)
 - [MBCompass (*only for map and compass; no GPS*)](https://github.com/MubarakNative/MBCompass)
 - [Morphe patched Google Maps (*for example Ungoogled Maps by bearinmind*)](https://morphe-patches.software/?app=com.google.android.apps.maps#apps)
 - [Morphe patched Waze (*for example Waze ß by DowJames*)](https://morphe-patches.software/?app=com.waze#apps)
@@ -113,6 +117,7 @@ Here's the list:
   
 ## Phone
 - [Connect You](https://github.com/you-apps/ConnectYou)
+- [Ente Photos](https://github.com/ente/ente)
 - [Fossify Contacts](https://github.com/FossifyOrg/Contacts)
 - [Fossify Phone](https://github.com/FossifyOrg/Phone)
 
@@ -142,7 +147,7 @@ Here's the list:
 - [Kagi](https://kagi.com/)
 - [MetaGer](http://metager.org/)
 - [QWant](https://www.qwant.com/)
-- [SearX (_Belgium instance here_)](https://searx.be/)
+- [SearXNG](https://searx.space/)
 - [Shodan](https://www.shodan.io/)
 - [Startpage](https://www.startpage.com/)
 - [WolframAlpha](https://www.wolframalpha.com/)
@@ -151,9 +156,15 @@ Here's the list:
 - None yet
 
 ## YouTube
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube)
+- [Grayjay](https://gitlab.futo.org/videostreaming/grayjay)
+- [Invidious](https://docs.invidious.io/instances/)
 - [LearnTube](https://github.com/akshvaishnav21/LearnTube)
+- [Liberta Vidéo](https://video.liberta.vip/videos/overview)
 - [LibreTube](https://github.com/libre-tube/LibreTube)
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+- [Odysee](https://odysee.com/)
+- [PeerTube](https://joinpeertube.org/browse-content)
 - [PipePipe](https://github.com/InfinityLoop1308/PipePipe)
 - [SmartTube](https://github.com/yuliskov/SmartTube)
 - [Tubular](https://apt.izzysoft.de/packages/org.polymorphicshade.tubular)
