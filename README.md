@@ -1,7 +1,7 @@
 # Google-services-replacements
-This repo contains a **non-exhaustive** but **ever-growing list** of **websites and softwares** that can **replace** the services made by **Google** all the **while respecting user privacy**\
+This repo contains a _non-exhaustive but ever-growing_ list of **websites and softwares** that are either **clients** for or **replacements** of the services made by **Google**, all the **while respecting user privacy**\
 _Most_ are [**free and open-source**](https://wikipedia.org/wiki/FOSS), but it is not always the case\
-The list is organised by category and in _ascending_ **alphabetical order**\
+The list is **organised** by **category** and in _ascending_ **alphabetical order**\
 This list originally comes from [my comment on Reddit](https://www.reddit.com/r/degoogle/comments/1wharr4/comment/pacvmgn/) on [this post](https://www.reddit.com/r/degoogle/s/LrojxUX7pm) in [r/degoogle](https://www.reddit.com/r/degoogle/)
 
 Here's the list:
@@ -26,21 +26,21 @@ Here's the list:
 - [Cromite](https://github.com/uazo/cromite)
 - [Ecosia](https://github.com/ecosia/)
 - [Falkon](https://www.falkon.org/)
-- [Fennec](https://hg.mozilla.org/mozilla-central/file/tip/mobile/android)
-- [Floorp](https://github.com/brave/brave-browser/)
+- [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
+- [Floorp](https://github.com/Floorp-Projects/Floorp)
 - [GNUZilla](https://www.gnu.org/software/gnuzilla/#navigation)
 - [Helium](https://github.com/imputnet/helium/)
 - [IronFox](https://github.com/ironfox-oss/IronFox/)
-- [LibreWolf](https://libreworlf.net/)
+- [LibreWolf](https://codeberg.org/librewolf)
 - [Midori](https://www.midori-browser.org/)
 - [Mozilla Firefox](https://www.firefox.com/download/)
+- [Opera](https://www.opera.com/opera/)
+- [Opera GX](https://www.opera.com/gx/)
 - [Thorium](https://github.com/Alex313031/thorium/)
 - [Tor](https://download.torproject.org/)
 - [Trivalent](https://github.com/secureblue/Trivalent/)
-- [Vivaldi](https://vivaldi.com/)
-- [Opera](https://www.opera.com/opera/)
-- [Opera GX](https://www.opera.com/gx/)
 - [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+- [Vivaldi](https://vivaldi.com/)
 - [WaterFox](https://www.waterfox.com/download/)
 - [Zen](https://github.com/zen-browser/)
   
@@ -57,11 +57,10 @@ Here's the list:
 - [Krita](https://invent.kde.org/graphics/krita)
   
 ## Drive
-- [Bitwarden](https://github.com/bitwarden/)
 - [Filen](https://filen.io/)
 - [Infomaniak kDrive](https://github.com/Infomaniak/android-kDrive)
 - [Nextcloud](https://nextcloud.com/files/)
-- [Proton Drive](https://play.google.com/store/apps/details?id=me.proton.android.drive)
+- [Proton Drive](https://github.com/ProtonDriveApps)
 
 ## Gboard
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
@@ -73,13 +72,6 @@ Here's the list:
 - [Universal Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 - [WM Keyboard](https://github.com/wasi-master/wmkeyboard)
 
-## Gmail
-- [Fastmail](https://www.fastmail.com)
-- [Infomaniak ikMail](https://github.com/Infomaniak/android-kMail)
-- [Posteo](https://posteo.de)
-- [Proton Mail](https://github.com/ProtonMail)
-- [Tuta Mail](https://github.com/tutao/tutanota)
-
 ## Gemini
 - [Assistral](https://github.com/shano/assistral) (_basically Le Chat Mistral but with more privacy_)
 - [DuckduckGo AI](https://duck.ai/)
@@ -89,6 +81,13 @@ Here's the list:
 - [Le Chat Mistral](https://chat.mistral.ai/chat)
 - [Lumo](https://github.com/ProtonLumo/android-lumo)
 - [MA OpenAssistant](https://github.com/vayun-mathur/Modern-Apps)
+
+## Gmail
+- [Fastmail](https://www.fastmail.com)
+- [Infomaniak ikMail](https://github.com/Infomaniak/android-kMail)
+- [Posteo](https://posteo.de)
+- [Proton Mail](https://github.com/ProtonMail)
+- [Tuta Mail](https://github.com/tutao/tutanota)
 
 ## Keep
 - [FUTO Notes](https://gitlab.futo.org/futo-notes/futo-notes)
@@ -101,13 +100,13 @@ Here's the list:
 ## Maps
 - [CoMaps](https://codeberg.org/comaps/comaps)
 - [HERE WeGo](https://wego.here.com/)
-- [Organic Maps](https://github.com/organicmaps/organicmaps)
-- [OsmAnd\~](https://github.com/osmandapp/Osmand)
-- [Mapy](https://mapy.com/)
 - [Magic Earth](https://www.magicearth.com/download)
+- [Mapy](https://mapy.com/)
 - [MBCompass](https://github.com/MubarakNative/MBCompass) (_only for map and compass; no GPS_)
 - [Morphe patched Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#apps)
 - [Morphe patched Waze](https://morphe-patches.software/?app=com.waze#apps)
+- [Organic Maps](https://github.com/organicmaps/organicmaps)
+- [OsmAnd\~](https://github.com/osmandapp/Osmand)
 
 ## Meet
 - [Infomaniak kMeet](https://github.com/Infomaniak/android-infomaniak-meet)
@@ -116,7 +115,7 @@ Here's the list:
 ## Messages
 - [Connect You](https://github.com/you-apps/ConnectYou)
 - [Fossify Messages](https://github.com/FossifyOrg/Messages)
-- [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+- [Signal](https://github.com/signalapp/Signal-Android)
 
 ## One
 - [Fossify](https://www.fossify.org/)
@@ -126,6 +125,7 @@ Here's the list:
 ## Password Manager
 - [1Key](https://github.com/roufsyed/1Key)
 - [AIPOS](https://github.com/gininaba/AIPOSPasswordManager)
+- [Bitwarden](https://github.com/bitwarden/)
 - [KeePass](https://keepass.info/download.html)
 - [Password Generator](https://gitlab.com/vecturagames/passwordgenerator) (_not for storage; only for generating passwords_)
 - [Proton Pass](https://github.com/protonpass/android-pass)
@@ -165,15 +165,15 @@ Here's the list:
 - [MetaGer](http://metager.org/)
 - [QWant](https://www.qwant.com/)
 - [SearXNG](https://searx.space/)
-- [Shodan](https://www.shodan.io/)
+- [Shodan](https://www.shodan.io/) (_not for general web search => for finding information on internet-connected devices and services_)
 - [Startpage](https://www.startpage.com/)
-- [WolframAlpha](https://www.wolframalpha.com/)
+- [Wolfram|Alpha](https://www.wolframalpha.com/) (_not for general web search => for computations, curated data, and factual questions_)
 
 ## TV
 - [Jellyfin](https://github.com/jellyfin/jellyfin)
 - [Kodi](https://github.com/xbmc/xbmc)
 - [LibreELEC](https://github.com/LibreELEC/LibreELEC.tv)
-- [OSMC](github.com/osmc/osmc)
+- [OSMC](https://github.com/osmc/osmc)
 
 ## YouTube
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube)
