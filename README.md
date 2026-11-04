@@ -1,12 +1,12 @@
 # Google-services-replacements
-This repo contains a non-exhaustive but ever-growing list of websites and softwares that can replace the services made by Google all the while respecting user privacy\
-Most are [free and open-source](https://wikipedia.org/wiki/FOSS), but it is not always the case\
-The list is organised by category and in ascending alphabetical order\
-This list originally comes from [this comment on Reddit](https://www.reddit.com/r/degoogle/comments/1wharr4/comment/pacvmgn/) on [this post](https://www.reddit.com/r/degoogle/s/LrojxUX7pm) in [r/degoogle](https://www.reddit.com/r/degoogle/) that I wrote about a month ago at the time of this repo's creation
+This repo contains a **non-exhaustive** but **ever-growing list** of **websites and softwares** that can **replace** the services made by **Google** all the **while respecting user privacy**\
+_Most_ are [**free and open-source**](https://wikipedia.org/wiki/FOSS), but it is not always the case\
+The list is organised by category and in _ascending_ **alphabetical order**\
+This list originally comes from [my comment on Reddit](https://www.reddit.com/r/degoogle/comments/1wharr4/comment/pacvmgn/) on [this post](https://www.reddit.com/r/degoogle/s/LrojxUX7pm) in [r/degoogle](https://www.reddit.com/r/degoogle/)
 
 Here's the list:
 
-## [2FA](https://wikipedia.org/wiki/2FA)
+## Authenticator
 - [1Key](https://github.com/roufsyed/1Key)
 - [Aegis](https://github.com/beemdevelopment/Aegis)
 - [AIPOS](https://github.com/gininaba/AIPOSPasswordManager)
@@ -51,6 +51,10 @@ Here's the list:
 - [Infomaniak kSync](https://github.com/Infomaniak/android-kSync)
 - [MA Contacts](https://github.com/vayun-mathur/Modern-Apps)
 - [SimpleX](https://github.com/simplex-chat/simplex-chat)
+
+## Drawing
+- [Gimp](https://github.com/gnome/gimp)
+- [Krita](https://invent.kde.org/graphics/krita)
   
 ## Drive
 - [Bitwarden](https://github.com/bitwarden/)
@@ -61,6 +65,7 @@ Here's the list:
 
 ## Gboard
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard)
+- [Floris Board](https://github.com/florisboard/florisboard)
 - [FUTO Keyboard](https://github.com/futo-org/android-keyboard/releases)
 - [HeliBoard](https://github.com/HeliBorg/HeliBoard)
 - [Simple Keyboard](https://github.com/rkkr/simple-keyboard)
@@ -72,16 +77,26 @@ Here's the list:
 - [Fastmail](https://www.fastmail.com)
 - [Infomaniak ikMail](https://github.com/Infomaniak/android-kMail)
 - [Posteo](https://posteo.de)
-- [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+- [Proton Mail](https://github.com/ProtonMail)
 - [Tuta Mail](https://github.com/tutao/tutanota)
 
 ## Gemini
-- [Assistral (*basically Le Chat Mistral but with more privacy*)](https://github.com/shano/assistral)
-- [Duck.ai (*actually a proxy for other LLMs*)](https://duck.ai/)
+- [Assistral](https://github.com/shano/assistral) (_basically Le Chat Mistral but with more privacy_)
+- [DuckduckGo AI](https://duck.ai/)
+- [Ecosia AI](https://www.ecosia.org/ai-chat/)
 - [Euria](https://github.com/Infomaniak/android-euria)
+- [GreenPT](https://apps.greenpt.ai/apps/chat)
 - [Le Chat Mistral](https://chat.mistral.ai/chat)
 - [Lumo](https://github.com/ProtonLumo/android-lumo)
 - [MA OpenAssistant](https://github.com/vayun-mathur/Modern-Apps)
+
+## Keep
+- [FUTO Notes](https://gitlab.futo.org/futo-notes/futo-notes)
+- [Joplin](https://github.com/laurent22/joplin/)
+- [Notesnook](https://github.com/streetwriters/notesnook)
+- [Obsidian](https://github.com/obsidianmd)
+- [Quillpad](https://github.com/quillpad/quillpad)
+- [Standard Notes](https://github.com/standardnotes/app)
   
 ## Maps
 - [CoMaps](https://codeberg.org/comaps/comaps)
@@ -90,9 +105,9 @@ Here's the list:
 - [OsmAnd\~](https://github.com/osmandapp/Osmand)
 - [Mapy](https://mapy.com/)
 - [Magic Earth](https://www.magicearth.com/download)
-- [MBCompass (*only for map and compass; no GPS*)](https://github.com/MubarakNative/MBCompass)
-- [Morphe patched Google Maps (*for example Ungoogled Maps by bearinmind*)](https://morphe-patches.software/?app=com.google.android.apps.maps#apps)
-- [Morphe patched Waze (*for example Waze ß by DowJames*)](https://morphe-patches.software/?app=com.waze#apps)
+- [MBCompass](https://github.com/MubarakNative/MBCompass) (_only for map and compass; no GPS_)
+- [Morphe patched Google Maps](https://morphe-patches.software/?app=com.google.android.apps.maps#apps)
+- [Morphe patched Waze](https://morphe-patches.software/?app=com.waze#apps)
 
 ## Meet
 - [Infomaniak kMeet](https://github.com/Infomaniak/android-infomaniak-meet)
@@ -111,8 +126,8 @@ Here's the list:
 ## Password Manager
 - [1Key](https://github.com/roufsyed/1Key)
 - [AIPOS](https://github.com/gininaba/AIPOSPasswordManager)
-- [KeePass (*for examples KeePassDX, KeePassXC, ...*)](https://keepass.info/download.html)
-- [Password Generator (*not for storage; only for generating passwords*)](https://gitlab.com/vecturagames/passwordgenerator)
+- [KeePass](https://keepass.info/download.html)
+- [Password Generator](https://gitlab.com/vecturagames/passwordgenerator) (_not for storage; only for generating passwords_)
 - [Proton Pass](https://github.com/protonpass/android-pass)
   
 ## Phone
@@ -122,12 +137,14 @@ Here's the list:
 - [Fossify Phone](https://github.com/FossifyOrg/Phone)
 
 ## Photos
+- [Ente Photos](https://github.com/ente/ente)
 - [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 - [Gallery for PhotoPrism](https://github.com/Radiokot/photoprism-android-client)
 - [Image Toolbox](https://github.com/T8RIN/ImageResizer)
+- [Immich](https://github.com/immich-app/immich)
 - [Iris Gallery](https://github.com/MohamadOday/iris-gallery)
 - [Lavender](https://github.com/kaii-lb/LavenderPhotos)
-- [VLC Media Player (*not for storage; for opening pics/videos/audio files only*)](https://code.videolan.org/videolan/vlc-android)
+- [VLC Media Player](https://code.videolan.org/videolan/vlc-android) (_not for storage; for opening image/video/audio files only_)
   
 ## Play Store
 - [Accrescent](https://accrescent.app/)
@@ -136,7 +153,7 @@ Here's the list:
 - [Flicky](https://github.com/mlm-games/flicky)
 - [Komi Store](https://github.com/kurikomi-labs/komi-store)
 - [Mitch](https://sr.ht/~gardenapple/mitch/)
-- [Obtainium (*not for intial downloads; for updates only*)](https://github.com/ImranR98/Obtainium)
+- [Obtainium](https://github.com/ImranR98/Obtainium) (_not for initial downloads; for updates only_)
   
 ## Search
 - [Brave](https://search.brave.com/)
@@ -153,7 +170,10 @@ Here's the list:
 - [WolframAlpha](https://www.wolframalpha.com/)
 
 ## TV
-- None yet
+- [Jellyfin](https://github.com/jellyfin/jellyfin)
+- [Kodi](https://github.com/xbmc/xbmc)
+- [LibreELEC](https://github.com/LibreELEC/LibreELEC.tv)
+- [OSMC](github.com/osmc/osmc)
 
 ## YouTube
 - [FreeTube](https://github.com/FreeTubeApp/FreeTube)
